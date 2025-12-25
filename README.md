@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Adarsh Singh
 
-<!--
-**adarsh-singh11/adarsh-singh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) student  
+💡 Interested in Artificial Intelligence & Machine Learning  
+🛠 Currently learning C, Python & basic ML concepts  
+🚀 Believes in learning by building real projects  
 
-Here are some ideas to get you started:
+## 🧰 Skills (Learning Stage)
+- C Programming
+- Basics of Machine Learning
+- VS Code, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Medicine Recommender System (beginner project)
+
+## 🌱 Currently Working On
+- Strengthening programming fundamentals
+- Exploring ML algorithms step by step
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/adarsh-singh-2696aa37b
